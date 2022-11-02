@@ -7,6 +7,6 @@
 
 #### Level Of Difficult : Easy ###
 
-| ID | Challenge | Solution Script |
+| S.N | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 16 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](Solution/Easy/Data_Science_Skills.sql)
+| 1 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](Solution/Easy/Data_Science_Skills.sql)
