@@ -14,3 +14,5 @@
 | 3 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](Solution/Easy/Unfinished_Parts.sql) 
 | 4 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](Solution/Easy/Laptop_vs_Mobile_Viewership.sql)
 | 5 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](Solution/Easy/Duplicate_Job_Listings.sql)
+| 6 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution/Easy/Average_Post_Hiatus_Part1.sql)
+
