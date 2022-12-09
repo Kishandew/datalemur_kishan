@@ -15,4 +15,4 @@
 | 4 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](Solution/Easy/Laptop_vs_Mobile_Viewership.sql)
 | 5 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](Solution/Easy/Duplicate_Job_Listings.sql)
 | 6 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](Solution/Easy/Average_Post_Hiatus_Part1.sql)
-
+| 7 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](Solution/Easy/Teams_Power_Users.sql)
